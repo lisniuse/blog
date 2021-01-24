@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisniuse/complex-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisniuse/complex-component/issues"
+  },
+  "homepage": "https://github.com/lisniuse/complex-component#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
